@@ -2,7 +2,7 @@ import Card from "./Card"
 
 
 
-const Contenido=()=>{
+const Contenido=({})=>{
     return(
         <section className="panel-control-section">
                 {/*simpre dar una dependencia a la section con el nombre */}

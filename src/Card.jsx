@@ -29,6 +29,7 @@ const Card=()=>{
                 
             </div><div className="panel-control-card">
                 <section3></section3>
+             
                 
             </div></>
 
